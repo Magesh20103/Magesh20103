@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Pythom
 - 📫 How to reach me
-- Instagram ID: @thelonelf_20
+- Instagram ID: @thelonewolf_20
 - LinkedIn ID: www.linkedin.com/in/s-magesh-004652213
 
 <!---
