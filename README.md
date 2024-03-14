@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pythom
 - 📫 How to reach me
 - Instagram ID: @thelonewolf_20
-- LinkedIn ID: www.linkedin.com/in/s-magesh-004652213
+- LinkedIn ID: www.linkedin.com/in/mageshs20
 
 <!---
 Magesh20103/Magesh20103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
