@@ -1,6 +1,5 @@
 - Hi, I’m @Magesh20103
-- I’m interested in Data Science
-- I’m currently learning Pythom
+- I’m currently learning Python
 - 📫 How to reach me
 - Instagram ID: @thelonewolf_20
 - LinkedIn ID: www.linkedin.com/in/mageshs20
